@@ -1,0 +1,1 @@
+[Initial Design Document](https://code.google.com/p/pass-the-wifi/downloads/detail?name=InitialDesign.pdf) can be found under the Downloads tab.
